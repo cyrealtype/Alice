@@ -12,6 +12,8 @@ her diploma project at the Type & Typography course in Moscow, Russia.
 
 Released by Cyreal with help from Gayaneh Bagdasaryan and Alexei Vanyashin.
 
+![Alice Font by Cyreal](http://cyreal.org/wp-content/uploads/2012/07/promo_02.jpg)
+
 Alice is a Unicode typeface family that supports 
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
