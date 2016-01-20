@@ -31,9 +31,13 @@ ranges: Latin-1
 To contribute to the project contact Alexei Vanyashin at 
 a (at) cyreal.org
 
-There are two .VBF Source files:
-1. Alice_PS_Source.vbf (Original Source files with contour overlaps)
-2. Alice_merged_and_optimized.vbf (Merged and optimized file)
+1. Alice-Regular.vfb Original Source files with contour overlaps
+
+2. Alice-Regular-OTF.vfb Merged contours and optimized file 
+   corresponding to the OTF file
+
+3. Alice-Regular-TTF.vfb TrueType outlines with hinting 
+   adjustments corresponding to the TTF file
 
 ChangeLog
 Version 1.010 
