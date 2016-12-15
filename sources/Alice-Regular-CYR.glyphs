@@ -4,7 +4,7 @@ DisplayStrings = (
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,
 "/A-cy/Be-cy/Ve-cy/Ge-cy/De-cy/Ie-cy/Io-cy/Zhe-cy/Ze-cy/Ii-cy/Iishort-cy/Ka-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ef-cy/Ha-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Ereversed-cy/Iu-cy/Ia-cy/a-cy/be-cy/ve-cy/ge-cy/de-cy/ie-cy/io-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/ka-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/softsign-cy/hardsign-cy/yeru-cy/ereversed-cy/iu-cy/ia-cy",
 "Highest:\012/circumflex/circumflexcomb \U00CA/Gje-cy/Iigrave-cy \U00D6/Odieresis-cy/ring.case \U00C4\U00CB\U00CF\U00DC/Yi-cy \U00C5/caroncomb.case/acute.case/grave.case/circumflexcomb.case \U00D4\U00D3\U00D2/Io-cy/Zhedieresis-cy \012Lowest:\012/commaaccentcomb/Tse-cy/Shcha-cy/Dzhe-cy \U00A1\U00BF/tse-cy/shcha-cy []gy\U00FD/ydieresis/u-cy/ushort-cy/umacron-cy/udieresis-cy/uhungarumlaut-cy {",
-abcdefghijklmnopqrstuvwxyz
+abcdefxHghijklmnopqrstuvwxyz
 );
 classes = (
 {
@@ -143,13 +143,13 @@ fontMaster = (
 {
 alignmentZones = (
 "{729, 16}",
-"{637, 15}",
-"{460, 6}",
+"{631, 21}",
+"{453, 13}",
 "{0, -21}",
 "{-208, -11}"
 );
 ascender = 729;
-capHeight = 637;
+capHeight = 631;
 customParameters = (
 {
 name = winAscent;
@@ -196,7 +196,7 @@ verticalStems = (
 94,
 158
 );
-xHeight = 460;
+xHeight = 453;
 }
 );
 glyphs = (
@@ -10204,6 +10204,16 @@ unicode = 00E6;
 glyphname = b;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{281, 0}";
+},
+{
+name = top;
+position = "{281, 460}";
+}
+);
 background = {
 paths = (
 {
@@ -10357,6 +10367,16 @@ unicode = 0062;
 glyphname = c;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{238, 0}";
+},
+{
+name = top;
+position = "{238, 460}";
+}
+);
 background = {
 paths = (
 {
@@ -10450,11 +10470,11 @@ nodes = (
 "319 303 OFFCURVE",
 "336 283 OFFCURVE",
 "365 283 CURVE SMOOTH",
-"416 283 OFFCURVE",
-"442 337 OFFCURVE",
-"431 382 CURVE",
-"411 461 OFFCURVE",
-"312 465 OFFCURVE",
+"408 283 OFFCURVE",
+"433 322 OFFCURVE",
+"433 361 CURVE SMOOTH",
+"433 444 OFFCURVE",
+"346 465 OFFCURVE",
 "276 465 CURVE",
 "147 461 OFFCURVE",
 "46 365 OFFCURVE",
@@ -10652,6 +10672,24 @@ unicode = 00E7;
 glyphname = d;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{290, 0}";
+},
+{
+name = center;
+position = "{290, 230}";
+},
+{
+name = top;
+position = "{290, 460}";
+},
+{
+name = topright;
+position = "{560, 460}";
+}
+);
 background = {
 paths = (
 {
@@ -10984,8 +11022,16 @@ layers = (
 {
 anchors = (
 {
+name = bottom;
+position = "{281, 0}";
+},
+{
+name = ogonek;
+position = "{372, 10}";
+},
+{
 name = top;
-position = "{264, 490}";
+position = "{251, 460}";
 }
 );
 background = {
@@ -11541,6 +11587,16 @@ unicode = 00E8;
 glyphname = f;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{172, 0}";
+},
+{
+name = top;
+position = "{172, 637}";
+}
+);
 background = {
 paths = (
 {
