@@ -146,7 +146,7 @@ alignmentZones = (
 "{-270, 22}"
 );
 ascender = 729;
-capHeight = 631;
+capHeight = 637;
 descender = -208;
 horizontalStems = (
 40,
@@ -159,7 +159,7 @@ verticalStems = (
 94,
 158
 );
-xHeight = 453;
+xHeight = 460;
 }
 );
 glyphs = (
