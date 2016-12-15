@@ -43,11 +43,12 @@ Version 2.000 (Cyreal)
 — Completed Cyrillic kerning
 — General spacing and design improvements
 
-2010
+August 2011
 Version 1.010 
 - Minor design adjustments (Cyreal)
 - Manual Hinting
 
+August 2011
 Version 1.000
 - Initial Release (Ksenya Erulevich, Cyreal) 
 
