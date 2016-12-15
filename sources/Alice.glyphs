@@ -7,7 +7,7 @@ code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2011 the Alice font authors(contact@cyreal.org) with Reserved Font Name \"Alice\"";
+copyright = "Copyright (c) 2011 the Alice font authors(contact@cyreal.org) with Reserved Font Name \"Alice\".";
 customParameters = (
 {
 name = trademark;
@@ -27,16 +27,16 @@ value = (
 );
 },
 {
+name = vendorID;
+value = CYRE;
+},
+{
 name = "Disable Last Change";
 value = 1;
 },
 {
 name = "Use Line Breaks";
 value = 1;
-},
-{
-name = vendorID;
-value = CYRE;
 },
 {
 name = "Use Typo Metrics";
@@ -20192,12 +20192,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"312 -10 OFFCURVE",
-"326 244 OFFCURVE",
+"282 -10 OFFCURVE",
+"309 224 OFFCURVE",
 "339 521 CURVE SMOOTH",
-"339 583 OFFCURVE",
+"345 583 OFFCURVE",
 "360 588 OFFCURVE",
-"395 588 CURVE",
+"395 588 CURVE SMOOTH",
 "535 588 LINE",
 "535 117 LINE",
 "534 79 OFFCURVE",
@@ -20224,9 +20224,9 @@ nodes = (
 "636 40 OFFCURVE",
 "635 79 OFFCURVE",
 "634 117 CURVE",
-"634 514 LINE",
-"635 552 OFFCURVE",
-"636 591 OFFCURVE",
+"634 514 LINE SMOOTH",
+"635 562 OFFCURVE",
+"646 591 OFFCURVE",
 "699 591 CURVE SMOOTH",
 "713 591 OFFCURVE",
 "723 589 OFFCURVE",
@@ -20247,13 +20247,13 @@ nodes = (
 "201 589 OFFCURVE",
 "211 591 OFFCURVE",
 "225 591 CURVE SMOOTH",
-"288 591 OFFCURVE",
-"285 552 OFFCURVE",
+"278 591 OFFCURVE",
+"292 572 OFFCURVE",
 "286 514 CURVE SMOOTH",
-"285 439 OFFCURVE",
-"287 73 OFFCURVE",
-"160 73 CURVE SMOOTH",
-"132 73 OFFCURVE",
+"256 249 OFFCURVE",
+"236 73 OFFCURVE",
+"158 73 CURVE SMOOTH",
+"130 73 OFFCURVE",
 "116 86 OFFCURVE",
 "116 112 CURVE SMOOTH",
 "116 132 OFFCURVE",
@@ -20604,7 +20604,7 @@ nodes = (
 );
 }
 );
-width = 682;
+width = 658;
 }
 );
 leftKerningGroup = "U-cy";
@@ -20625,7 +20625,7 @@ transform = "{1, 0, 0, 1, 101, 0}";
 }
 );
 layerId = UUID0;
-width = 682;
+width = 658;
 }
 );
 leftKerningGroup = "U-cy";
@@ -20997,7 +20997,7 @@ nodes = (
 );
 }
 );
-width = 835;
+width = 815;
 }
 );
 leftKerningGroup = I;
@@ -21846,40 +21846,40 @@ layers = (
 anchors = (
 {
 name = bottomright;
-position = "{584, 0}";
+position = "{594, 0}";
 }
 );
 background = {
 components = (
 {
 name = "El-cy";
-transform = "{1, 0, 0, 1, -72, 0}";
+transform = "{1, 0, 0, 1, -62, 0}";
 }
 );
 paths = (
 {
 closed = 1;
 nodes = (
-"547 332 LINE",
-"570 340 OFFCURVE",
-"594 341 OFFCURVE",
-"620 341 CURVE SMOOTH",
-"690 341 OFFCURVE",
-"765 297 OFFCURVE",
-"765 191 CURVE SMOOTH",
-"765 70 OFFCURVE",
-"701 38 OFFCURVE",
-"619 40 CURVE",
-"619 -3 LINE",
-"726 -6 OFFCURVE",
-"876 36 OFFCURVE",
-"876 192 CURVE SMOOTH",
-"876 297 OFFCURVE",
-"803 385 OFFCURVE",
-"660 385 CURVE SMOOTH",
-"625 385 OFFCURVE",
-"588 381 OFFCURVE",
-"546 374 CURVE"
+"557 332 LINE",
+"580 340 OFFCURVE",
+"604 341 OFFCURVE",
+"630 341 CURVE SMOOTH",
+"700 341 OFFCURVE",
+"775 297 OFFCURVE",
+"775 191 CURVE SMOOTH",
+"775 70 OFFCURVE",
+"711 38 OFFCURVE",
+"629 40 CURVE",
+"629 -3 LINE",
+"736 -6 OFFCURVE",
+"886 36 OFFCURVE",
+"886 192 CURVE SMOOTH",
+"886 297 OFFCURVE",
+"813 385 OFFCURVE",
+"670 385 CURVE SMOOTH",
+"635 385 OFFCURVE",
+"598 381 OFFCURVE",
+"556 374 CURVE"
 );
 }
 );
@@ -21889,76 +21889,76 @@ paths = (
 {
 closed = 1;
 nodes = (
-"726 -6 OFFCURVE",
-"876 36 OFFCURVE",
-"876 192 CURVE SMOOTH",
-"876 297 OFFCURVE",
-"803 385 OFFCURVE",
-"660 385 CURVE SMOOTH",
-"625 385 OFFCURVE",
-"588 381 OFFCURVE",
-"546 374 CURVE",
-"547 332 LINE",
-"570 340 OFFCURVE",
-"594 341 OFFCURVE",
-"620 341 CURVE SMOOTH",
-"690 341 OFFCURVE",
-"765 297 OFFCURVE",
-"765 191 CURVE SMOOTH",
-"765 70 OFFCURVE",
-"701 38 OFFCURVE",
-"619 40 CURVE",
-"619 -3 LINE"
+"736 -6 OFFCURVE",
+"886 36 OFFCURVE",
+"886 192 CURVE SMOOTH",
+"886 297 OFFCURVE",
+"813 385 OFFCURVE",
+"670 385 CURVE SMOOTH",
+"635 385 OFFCURVE",
+"598 381 OFFCURVE",
+"556 374 CURVE",
+"557 332 LINE",
+"580 340 OFFCURVE",
+"604 341 OFFCURVE",
+"630 341 CURVE SMOOTH",
+"700 341 OFFCURVE",
+"775 297 OFFCURVE",
+"775 191 CURVE SMOOTH",
+"775 70 OFFCURVE",
+"711 38 OFFCURVE",
+"629 40 CURVE",
+"629 -3 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"312 -10 OFFCURVE",
-"326 244 OFFCURVE",
+"282 -10 OFFCURVE",
+"310 224 OFFCURVE",
 "339 521 CURVE SMOOTH",
-"342 583 OFFCURVE",
+"345 583 OFFCURVE",
 "360 588 OFFCURVE",
-"395 588 CURVE",
-"485 588 LINE",
-"485 117 LINE",
-"484 79 OFFCURVE",
-"483 40 OFFCURVE",
-"420 40 CURVE SMOOTH",
-"406 40 OFFCURVE",
-"396 42 OFFCURVE",
-"395 19 CURVE SMOOTH",
-"395 8 OFFCURVE",
-"400 -3 OFFCURVE",
-"413 -3 CURVE SMOOTH",
-"456 -1 OFFCURVE",
-"497 0 OFFCURVE",
-"537 0 CURVE SMOOTH",
-"577 0 OFFCURVE",
-"613 -1 OFFCURVE",
-"656 -3 CURVE SMOOTH",
-"669 -3 OFFCURVE",
-"674 8 OFFCURVE",
-"674 19 CURVE SMOOTH",
-"673 42 OFFCURVE",
-"663 40 OFFCURVE",
-"649 40 CURVE SMOOTH",
-"586 40 OFFCURVE",
-"585 79 OFFCURVE",
-"584 117 CURVE",
-"584 514 LINE",
-"585 552 OFFCURVE",
-"586 591 OFFCURVE",
-"649 591 CURVE SMOOTH",
-"663 591 OFFCURVE",
-"673 589 OFFCURVE",
-"674 612 CURVE SMOOTH",
-"674 623 OFFCURVE",
-"669 634 OFFCURVE",
-"656 634 CURVE SMOOTH",
-"613 632 OFFCURVE",
-"578 631 OFFCURVE",
-"538 631 CURVE SMOOTH",
+"395 588 CURVE SMOOTH",
+"495 588 LINE",
+"495 117 LINE",
+"494 79 OFFCURVE",
+"493 40 OFFCURVE",
+"430 40 CURVE SMOOTH",
+"416 40 OFFCURVE",
+"405 42 OFFCURVE",
+"405 19 CURVE SMOOTH",
+"405 8 OFFCURVE",
+"410 -3 OFFCURVE",
+"423 -3 CURVE SMOOTH",
+"466 -3 OFFCURVE",
+"507 0 OFFCURVE",
+"547 0 CURVE SMOOTH",
+"587 0 OFFCURVE",
+"623 0 OFFCURVE",
+"666 -3 CURVE SMOOTH",
+"679 -4 OFFCURVE",
+"684 8 OFFCURVE",
+"684 19 CURVE SMOOTH",
+"684 42 OFFCURVE",
+"673 40 OFFCURVE",
+"659 40 CURVE SMOOTH",
+"596 40 OFFCURVE",
+"595 79 OFFCURVE",
+"594 117 CURVE",
+"594 514 LINE SMOOTH",
+"594 562 OFFCURVE",
+"606 591 OFFCURVE",
+"659 591 CURVE SMOOTH",
+"673 591 OFFCURVE",
+"684 589 OFFCURVE",
+"684 612 CURVE SMOOTH",
+"684 623 OFFCURVE",
+"679 634 OFFCURVE",
+"666 634 CURVE SMOOTH",
+"623 634 OFFCURVE",
+"588 631 OFFCURVE",
+"548 631 CURVE SMOOTH",
 "336 631 LINE",
 "297 631 OFFCURVE",
 "261 631 OFFCURVE",
@@ -21969,13 +21969,13 @@ nodes = (
 "200 589 OFFCURVE",
 "211 591 OFFCURVE",
 "225 591 CURVE SMOOTH",
-"288 591 OFFCURVE",
-"285 552 OFFCURVE",
+"278 591 OFFCURVE",
+"292 572 OFFCURVE",
 "286 514 CURVE SMOOTH",
-"288 439 OFFCURVE",
-"287 73 OFFCURVE",
-"160 73 CURVE SMOOTH",
-"132 73 OFFCURVE",
+"259 249 OFFCURVE",
+"236 73 OFFCURVE",
+"158 73 CURVE SMOOTH",
+"130 73 OFFCURVE",
 "116 86 OFFCURVE",
 "116 112 CURVE SMOOTH",
 "116 132 OFFCURVE",
@@ -21993,7 +21993,7 @@ nodes = (
 );
 }
 );
-width = 913;
+width = 923;
 }
 );
 leftKerningGroup = "El-cy";
@@ -24958,7 +24958,7 @@ transform = "{1, 0, 0, 1, 131, 178}";
 }
 );
 layerId = UUID0;
-width = 682;
+width = 658;
 }
 );
 leftKerningGroup = "U-cy";
@@ -24979,7 +24979,7 @@ transform = "{1, 0, 0, 1, 139, 0}";
 }
 );
 layerId = UUID0;
-width = 682;
+width = 658;
 }
 );
 leftKerningGroup = "U-cy";
@@ -25000,7 +25000,7 @@ transform = "{1, 0, 0, 1, 138, 0}";
 }
 );
 layerId = UUID0;
-width = 682;
+width = 658;
 }
 );
 leftKerningGroup = "U-cy";
@@ -25640,7 +25640,7 @@ layers = (
 anchors = (
 {
 name = top;
-position = "{251, 453}";
+position = "{261, 453}";
 }
 );
 components = (
@@ -25666,7 +25666,7 @@ name = "ie-cy";
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 18, 0}";
+transform = "{1, 0, 0, 1, 28, 0}";
 }
 );
 layerId = UUID0;
@@ -25687,7 +25687,7 @@ name = "ie-cy";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 52, 0}";
+transform = "{1, 0, 0, 1, 62, 0}";
 }
 );
 layerId = UUID0;
@@ -30749,7 +30749,7 @@ name = "ie-cy";
 },
 {
 name = "brevecomb-cy";
-transform = "{1, 0, 0, 1, 41, -5}";
+transform = "{1, 0, 0, 1, 51, -5}";
 }
 );
 layerId = UUID0;
@@ -44882,10 +44882,11 @@ registered = -12;
 w = -51;
 "@MMK_R_Che-cy" = -110;
 "@MMK_R_U-cy" = -30;
-"@MMK_R_Ze-cy" = -10;
+"@MMK_R_Ze-cy" = -20;
 "@MMK_R_be-cy" = -40;
 "@MMK_R_che-cy" = -50;
 "@MMK_R_te-cy" = -50;
+"@MMK_R_I" = -40;
 };
 "@MMK_L_B" = {
 "@MMK_R_A" = -10;
@@ -45012,7 +45013,7 @@ AE = -46;
 };
 "@MMK_L_I" = {
 "@MMK_R_O" = -16;
-"@MMK_R_a" = -11;
+"@MMK_R_a" = -31;
 "@MMK_R_ampersand" = -14;
 "@MMK_R_b" = -13;
 "@MMK_R_f" = -8;
@@ -45044,6 +45045,9 @@ periodcentered = -62;
 "@MMK_R_quotesingle" = -10;
 "@MMK_R_te-cy" = -40;
 "@MMK_R_quoteleft" = -10;
+"@MMK_R_ze-cy" = -40;
+"@MMK_R_Ze-cy" = -10;
+"@MMK_R_Ia-cy" = -20;
 };
 "@MMK_L_K" = {
 "@MMK_R_O" = -48;
@@ -45098,7 +45102,7 @@ w = -62;
 "@MMK_R_I" = -12;
 "@MMK_R_J" = -12;
 "@MMK_R_U" = -10;
-"@MMK_R_V" = -23;
+"@MMK_R_V" = -73;
 "@MMK_R_X" = -35;
 "@MMK_R_Y" = -29;
 "@MMK_R_Z" = -6;
@@ -45332,7 +45336,7 @@ x = -18;
 "@MMK_L_V" = {
 "@MMK_R_A" = -77;
 "@MMK_R_I" = -9;
-"@MMK_R_O" = -21;
+"@MMK_R_O" = -51;
 "@MMK_R_a" = -124;
 "@MMK_R_ampersand" = -14;
 "@MMK_R_at" = -30;
@@ -45388,6 +45392,7 @@ registered = -12;
 "@MMK_R_ia-cy" = -150;
 "@MMK_R_te-cy" = -90;
 "@MMK_R_ze-cy" = -100;
+"@MMK_R_Ia-cy" = -50;
 };
 "@MMK_L_X" = {
 "@MMK_R_O" = -26;
@@ -45452,6 +45457,9 @@ registered = -17;
 "@MMK_R_quoteleft" = 20;
 ecircumflex = -68;
 egrave = -78;
+"@MMK_R_De-cy" = -30;
+"@MMK_R_El-cy" = -60;
+"@MMK_R_Ia-cy" = -60;
 };
 "@MMK_L_Z" = {
 "@MMK_R_I" = -8;
@@ -45990,6 +45998,7 @@ x = -25;
 "@MMK_R_el-cy" = -10;
 "@MMK_R_ia-cy" = -20;
 "@MMK_R_seven" = -10;
+space = 0;
 };
 "@MMK_L_one" = {
 "@MMK_R_A" = 39;
@@ -46176,6 +46185,9 @@ guillemetleft = -53;
 p = -8;
 quotedblbase = -120;
 quotesinglbase = -119;
+"@MMK_R_El-cy" = -60;
+"@MMK_R_De-cy" = -50;
+"@MMK_R_Ia-cy" = -60;
 };
 "@MMK_L_quotesingle" = {
 "@MMK_R_A" = -104;
@@ -46186,7 +46198,7 @@ quotesinglbase = -119;
 "@MMK_R_g" = -12;
 "@MMK_R_guilsinglleft" = -24;
 "@MMK_R_hyphen" = -14;
-"@MMK_R_o" = -19;
+"@MMK_R_o" = -29;
 "@MMK_R_period" = -93;
 "@MMK_R_s" = -49;
 "@MMK_R_slash" = -47;
@@ -46201,11 +46213,14 @@ quotesinglbase = -114;
 "@MMK_R_che-cy" = -10;
 "@MMK_R_de-cy" = -60;
 "@MMK_R_el-cy" = -110;
-"@MMK_R_ia-cy" = -100;
+"@MMK_R_ia-cy" = -90;
 "@MMK_R_v" = -20;
 "@MMK_R_x" = -10;
 "@MMK_R_zero" = -10;
 "@MMK_R_O" = -30;
+"@MMK_R_ze-cy" = -20;
+"@MMK_R_Ia-cy" = -50;
+"@MMK_R_i" = 20;
 };
 "@MMK_L_r" = {
 "@MMK_R_A" = -36;
@@ -46386,7 +46401,7 @@ bracketright = -40;
 "@MMK_R_guilsinglleft" = -12;
 "@MMK_R_h" = -9;
 "@MMK_R_hyphen" = -37;
-"@MMK_R_o" = -50;
+"@MMK_R_o" = -30;
 "@MMK_R_parenright" = -28;
 "@MMK_R_period" = -112;
 "@MMK_R_s" = -5;
@@ -46404,6 +46419,7 @@ l = -9;
 "@MMK_R_j" = -10;
 "@MMK_R_ze-cy" = -20;
 "@MMK_R_x" = -20;
+"@MMK_R_ia-cy" = -40;
 };
 "@MMK_L_x" = {
 "@MMK_R_J" = -18;
@@ -46457,6 +46473,7 @@ guillemetleft = -28;
 l = -9;
 "@MMK_R_O" = -10;
 "@MMK_R_U-cy" = -30;
+"@MMK_R_el-cy" = -80;
 };
 "@MMK_L_z" = {
 "@MMK_R_I" = -10;
@@ -46689,6 +46706,7 @@ guillemetleft = -32;
 "@MMK_R_che-cy" = -60;
 "@MMK_R_el-cy" = -10;
 "@MMK_R_te-cy" = -40;
+"@MMK_R_U-cy" = -20;
 };
 "@MMK_L_Be-cy" = {
 "@MMK_R_De-cy" = -30;
@@ -46699,7 +46717,7 @@ guillemetleft = -32;
 "@MMK_R_O" = -30;
 "@MMK_R_Che-cy" = -20;
 "@MMK_R_I" = 0;
-"@MMK_R_U-cy" = -40;
+"@MMK_R_U-cy" = -30;
 "@MMK_R_Ze-cy" = -20;
 "@MMK_R_hyphen" = -80;
 "@MMK_R_o" = -30;
@@ -46708,6 +46726,10 @@ guillemetleft = -32;
 "@MMK_R_v" = -60;
 "@MMK_R_T" = -70;
 "@MMK_R_ia-cy" = -10;
+"@MMK_R_n" = -20;
+"@MMK_R_y" = -10;
+"@MMK_R_Y" = -20;
+"@MMK_R_V" = -40;
 };
 "@MMK_L_Ge-cy" = {
 "@MMK_R_A" = -90;
@@ -46738,6 +46760,9 @@ guillemetleft = -32;
 "@MMK_R_n" = -110;
 "@MMK_R_s" = -140;
 "@MMK_R_u" = -90;
+"@MMK_R_te-cy" = -90;
+"@MMK_R_T" = 10;
+"@MMK_R_El-cy" = -130;
 };
 "@MMK_L_Softsign-cy" = {
 "@MMK_R_A" = -20;
@@ -46746,6 +46771,8 @@ guillemetleft = -32;
 "@MMK_R_U-cy" = -30;
 "@MMK_R_X" = -20;
 "@MMK_R_Ze-cy" = -20;
+"@MMK_R_V" = -60;
+"@MMK_R_Y" = -40;
 };
 "@MMK_L_colon" = {
 "@MMK_R_T" = -10;
@@ -46757,7 +46784,7 @@ guillemetleft = -32;
 "@MMK_R_che-cy" = -10;
 "@MMK_R_hyphen" = -50;
 "@MMK_R_o" = -30;
-"@MMK_R_quotesingle" = -60;
+"@MMK_R_quotesingle" = -40;
 "@MMK_R_te-cy" = -10;
 "@MMK_R_O" = -40;
 "@MMK_R_ze-cy" = -10;
@@ -46814,6 +46841,35 @@ guillemetleft = -32;
 "@MMK_R_quotesingle" = -40;
 "@MMK_R_te-cy" = -10;
 "@MMK_R_v" = -40;
+};
+"@MMK_L_Ze-cy" = {
+"@MMK_R_el-cy" = -30;
+"@MMK_R_a" = -10;
+"@MMK_R_O" = -20;
+"@MMK_R_A" = -20;
+"@MMK_R_U-cy" = -30;
+"@MMK_R_El-cy" = -20;
+"@MMK_R_I" = -20;
+};
+"@MMK_L_Kadescender-cy" = {
+"@MMK_R_Ze-cy" = -20;
+"@MMK_R_Che-cy" = -30;
+"@MMK_R_O" = -20;
+"@MMK_R_a" = -10;
+"@MMK_R_o" = -30;
+"@MMK_R_che-cy" = -30;
+"@MMK_R_te-cy" = -30;
+"@MMK_R_be-cy" = -20;
+};
+"@MMK_L_kadescender-cy" = {
+"@MMK_R_o" = -10;
+"@MMK_R_be-cy" = -10;
+};
+space = {
+"@MMK_R_quotesingle" = 0;
+};
+"@MMK_L_ze-cy" = {
+"@MMK_R_quotesingle" = -30;
 };
 };
 };

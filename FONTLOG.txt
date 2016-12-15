@@ -31,24 +31,36 @@ ranges: Latin-1
 To contribute to the project contact Alexei Vanyashin at 
 a (at) cyreal.org
 
-1. Alice-Regular.vfb Original Source files with contour overlaps
 
-2. Alice-Regular-OTF.vfb Merged contours and optimized file 
-   corresponding to the OTF file
-
-3. Alice-Regular-TTF.vfb TrueType outlines with hinting 
-   adjustments corresponding to the TTF file
+Source files:
+1. Alice.glyphs (glyphs source file)
 
 ChangeLog
+
+December 15, 2016
+Version 2.000 (Cyreal)
+- Expanded glyph set to GF Cyrillic Plus
+— Completed Cyrillic kerning
+— General spacing and design improvements
+
+2010
 Version 1.010 
-Minor design adjustments (Alexei Vanyashin)
-Full Hinting
+- Minor design adjustments (Cyreal)
+- Manual Hinting
+
+Version 1.000
+- Initial Release (Ksenya Erulevich, Cyreal) 
+
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
 This list is in alphabetical order.
 
+N: Ksenia Erulevich
+E: oksana.erulevich@gmail.com
+D: Original Designer
+
 N: Alexei Vanyashin
 E: a (at) cyreal.org
 W: www.cyreal.org
-D: Designer and Mastering
+D: Mastering
