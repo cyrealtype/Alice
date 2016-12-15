@@ -150,7 +150,7 @@ value = 909;
 },
 {
 name = winAscent;
-value = 867.632;
+value = 946;
 },
 {
 name = typoLineGap;
@@ -174,7 +174,7 @@ value = -234;
 },
 {
 name = winDescent;
-value = -321.05;
+value = -321;
 }
 );
 descender = -208;
@@ -20889,7 +20889,7 @@ nodes = (
 "624 -246 CURVE SMOOTH",
 "752 -246 OFFCURVE",
 "809 -179 OFFCURVE",
-"809 -87 CURVE",
+"809 -87 CURVE SMOOTH",
 "800 75 OFFCURVE",
 "636 -7 OFFCURVE",
 "636 133 CURVE",
@@ -43214,8 +43214,11 @@ nodes = (
 "239 786 OFFCURVE",
 "258 809 OFFCURVE",
 "235 835 CURVE SMOOTH",
-"213 860 OFFCURVE",
-"190 847 OFFCURVE",
+"227 845 OFFCURVE",
+"218 849 OFFCURVE",
+"209 849 CURVE SMOOTH",
+"194 849 OFFCURVE",
+"179 839 OFFCURVE",
 "161 825 CURVE SMOOTH",
 "124 797 OFFCURVE",
 "77 748 OFFCURVE",
