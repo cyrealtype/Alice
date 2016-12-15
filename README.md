@@ -1,4 +1,4 @@
-#### Alice Font
+# Alice Font
 
 Open-source font Ksenia Erulevich
 
