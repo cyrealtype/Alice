@@ -37,6 +37,10 @@ value = 1;
 {
 name = vendorID;
 value = CYRE;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2016-12-15 10:50:31 +0000";
@@ -143,6 +147,34 @@ customParameters = (
 {
 name = typoAscender;
 value = 909;
+},
+{
+name = winAscent;
+value = 867.632;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 909;
+},
+{
+name = hheaDescender;
+value = -234;
+},
+{
+name = typoDescender;
+value = -234;
+},
+{
+name = winDescent;
+value = -321.05;
 }
 );
 descender = -208;
