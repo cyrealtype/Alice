@@ -139,6 +139,12 @@ alignmentZones = (
 );
 ascender = 729;
 capHeight = 631;
+customParameters = (
+{
+name = typoAscender;
+value = 909;
+}
+);
 descender = -208;
 horizontalStems = (
 40,
