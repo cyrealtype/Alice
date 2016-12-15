@@ -1538,6 +1538,7 @@ nodes = (
 width = 902;
 }
 );
+leftKerningGroup = A;
 rightKerningGroup = E;
 unicode = 00C6;
 },
@@ -1740,6 +1741,7 @@ width = 621;
 }
 );
 leftKerningGroup = I;
+rightKerningGroup = B;
 unicode = 0042;
 },
 {
@@ -3225,6 +3227,7 @@ width = 525;
 }
 );
 leftKerningGroup = I;
+rightKerningGroup = F;
 unicode = 0046;
 },
 {
@@ -3404,6 +3407,7 @@ width = 692;
 }
 );
 leftKerningGroup = O;
+rightKerningGroup = C;
 unicode = 0047;
 },
 {
@@ -4267,6 +4271,8 @@ nodes = (
 width = 345;
 }
 );
+leftKerningGroup = J;
+rightKerningGroup = U;
 unicode = 004A;
 },
 {
@@ -4527,6 +4533,7 @@ width = 700;
 }
 );
 leftKerningGroup = I;
+rightKerningGroup = K;
 unicode = 004B;
 },
 {
@@ -4693,6 +4700,7 @@ width = 571;
 }
 );
 leftKerningGroup = I;
+rightKerningGroup = L;
 unicode = 004C;
 },
 {
@@ -6473,6 +6481,7 @@ width = 604;
 }
 );
 leftKerningGroup = I;
+rightKerningGroup = P;
 unicode = 0050;
 },
 {
@@ -6675,6 +6684,7 @@ width = 606;
 }
 );
 leftKerningGroup = I;
+rightKerningGroup = P;
 unicode = 00DE;
 },
 {
@@ -7068,6 +7078,7 @@ width = 671;
 }
 );
 leftKerningGroup = I;
+rightKerningGroup = R;
 unicode = 0052;
 },
 {
@@ -7216,6 +7227,8 @@ nodes = (
 width = 545;
 }
 );
+leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 0053;
 },
 {
@@ -7359,6 +7372,8 @@ nodes = (
 width = 600;
 }
 );
+leftKerningGroup = T;
+rightKerningGroup = T;
 unicode = 0054;
 },
 {
@@ -8210,6 +8225,8 @@ nodes = (
 width = 648;
 }
 );
+leftKerningGroup = V;
+rightKerningGroup = V;
 unicode = 0056;
 },
 {
@@ -8338,6 +8355,8 @@ nodes = (
 width = 934;
 }
 );
+leftKerningGroup = V;
+rightKerningGroup = V;
 unicode = 0057;
 },
 {
@@ -8562,6 +8581,8 @@ nodes = (
 width = 653;
 }
 );
+leftKerningGroup = X;
+rightKerningGroup = X;
 unicode = 0058;
 },
 {
@@ -9063,6 +9084,8 @@ nodes = (
 width = 621;
 }
 );
+leftKerningGroup = Z;
+rightKerningGroup = Z;
 unicode = 005A;
 },
 {
@@ -10971,6 +10994,7 @@ width = 580;
 }
 );
 leftKerningGroup = o;
+rightKerningGroup = d;
 unicode = 0064;
 },
 {
@@ -11135,6 +11159,8 @@ nodes = (
 width = 563;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 00F0;
 },
 {
@@ -11881,6 +11907,7 @@ width = 343;
 }
 );
 leftKerningGroup = f;
+rightKerningGroup = f;
 unicode = 0066;
 },
 {
@@ -12099,6 +12126,8 @@ nodes = (
 width = 523;
 }
 );
+leftKerningGroup = g;
+rightKerningGroup = g;
 unicode = 0067;
 },
 {
@@ -12501,6 +12530,8 @@ nodes = (
 width = 296;
 }
 );
+leftKerningGroup = idotless;
+rightKerningGroup = idotless;
 unicode = 0131;
 },
 {
@@ -13007,6 +13038,7 @@ layerId = UUID0;
 width = 300;
 }
 );
+leftKerningGroup = jdotless;
 rightKerningGroup = j;
 unicode = 006A;
 },
@@ -13064,6 +13096,8 @@ nodes = (
 width = 300;
 }
 );
+leftKerningGroup = jdotless;
+rightKerningGroup = jdotless;
 unicode = 0237;
 },
 {
@@ -13298,6 +13332,7 @@ width = 567;
 }
 );
 leftKerningGroup = h;
+rightKerningGroup = k;
 unicode = 006B;
 },
 {
@@ -13432,6 +13467,8 @@ nodes = (
 width = 286;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = l;
 unicode = 006C;
 },
 {
@@ -15323,6 +15360,7 @@ nodes = (
 width = 584;
 }
 );
+leftKerningGroup = n;
 rightKerningGroup = o;
 unicode = 0070;
 },
@@ -15700,6 +15738,7 @@ width = 559;
 }
 );
 leftKerningGroup = o;
+rightKerningGroup = q;
 unicode = 0071;
 },
 {
@@ -15877,6 +15916,7 @@ width = 425;
 }
 );
 leftKerningGroup = n;
+rightKerningGroup = r;
 unicode = 0072;
 },
 {
@@ -16039,6 +16079,8 @@ nodes = (
 width = 443;
 }
 );
+leftKerningGroup = s;
+rightKerningGroup = s;
 unicode = 0073;
 },
 {
@@ -16246,6 +16288,7 @@ width = 604;
 }
 );
 leftKerningGroup = f;
+rightKerningGroup = germandbls;
 unicode = 00DF;
 },
 {
@@ -16391,6 +16434,8 @@ nodes = (
 width = 379;
 }
 );
+leftKerningGroup = t;
+rightKerningGroup = t;
 unicode = 0074;
 },
 {
@@ -17228,6 +17273,8 @@ nodes = (
 width = 551;
 }
 );
+leftKerningGroup = v;
+rightKerningGroup = v;
 unicode = 0076;
 },
 {
@@ -17380,6 +17427,8 @@ nodes = (
 width = 798;
 }
 );
+leftKerningGroup = v;
+rightKerningGroup = v;
 unicode = 0077;
 },
 {
@@ -17629,6 +17678,8 @@ nodes = (
 width = 541;
 }
 );
+leftKerningGroup = x;
+rightKerningGroup = x;
 unicode = 0078;
 },
 {
@@ -18294,6 +18345,8 @@ nodes = (
 width = 502;
 }
 );
+leftKerningGroup = z;
+rightKerningGroup = z;
 unicode = 007A;
 },
 {
@@ -18879,6 +18932,8 @@ nodes = (
 width = 396;
 }
 );
+leftKerningGroup = ordfeminine;
+rightKerningGroup = ordfeminine;
 unicode = 00AA;
 },
 {
@@ -18979,6 +19034,8 @@ nodes = (
 width = 407;
 }
 );
+leftKerningGroup = ordfeminine;
+rightKerningGroup = ordfeminine;
 unicode = 00BA;
 },
 {
@@ -19000,6 +19057,8 @@ layerId = UUID0;
 width = 653;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 0410;
 },
 {
@@ -19086,6 +19145,8 @@ nodes = (
 width = 605;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = "Be-cy";
 unicode = 0411;
 },
 {
@@ -19101,6 +19162,8 @@ layerId = UUID0;
 width = 621;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = B;
 unicode = 0412;
 },
 {
@@ -19185,6 +19248,8 @@ nodes = (
 width = 522;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = "Ge-cy";
 unicode = 0413;
 },
 {
@@ -19204,6 +19269,8 @@ layerId = UUID0;
 width = 522;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = "Ge-cy";
 unicode = 0403;
 },
 {
@@ -19345,6 +19412,8 @@ nodes = (
 width = 522;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = "Ge-cy";
 rightMetricsKey = "Ge-cy";
 unicode = 0490;
 },
@@ -19440,6 +19509,8 @@ nodes = (
 width = 724;
 }
 );
+leftKerningGroup = "De-cy";
+rightKerningGroup = "Tse-cy";
 unicode = 0414;
 },
 {
@@ -19461,6 +19532,8 @@ layerId = UUID0;
 width = 594;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = E;
 unicode = 0415;
 },
 {
@@ -19480,6 +19553,8 @@ layerId = UUID0;
 width = 594;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = E;
 unicode = 0400;
 },
 {
@@ -19499,6 +19574,8 @@ layerId = UUID0;
 width = 594;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = E;
 unicode = 0401;
 },
 {
@@ -19662,6 +19739,8 @@ nodes = (
 width = 1116;
 }
 );
+leftKerningGroup = X;
+rightKerningGroup = K;
 unicode = 0416;
 },
 {
@@ -19758,6 +19837,8 @@ nodes = (
 width = 544;
 }
 );
+leftKerningGroup = "Ze-cy";
+rightKerningGroup = B;
 unicode = 0417;
 },
 {
@@ -19875,6 +19956,8 @@ nodes = (
 width = 756;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 0418;
 },
 {
@@ -19906,6 +19989,8 @@ layerId = UUID0;
 width = 756;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 0419;
 },
 {
@@ -19925,6 +20010,8 @@ layerId = UUID0;
 width = 756;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 040D;
 },
 {
@@ -20049,6 +20136,8 @@ nodes = (
 width = 736;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = K;
 unicode = 041A;
 },
 {
@@ -20068,6 +20157,8 @@ layerId = UUID0;
 width = 736;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = K;
 unicode = 040C;
 },
 {
@@ -20167,6 +20258,8 @@ nodes = (
 width = 754;
 }
 );
+leftKerningGroup = "El-cy";
+rightKerningGroup = I;
 unicode = 041B;
 },
 {
@@ -20188,6 +20281,8 @@ layerId = UUID0;
 width = 889;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 041C;
 },
 {
@@ -20209,6 +20304,8 @@ layerId = UUID0;
 width = 777;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 041D;
 },
 {
@@ -20234,6 +20331,8 @@ layerId = UUID0;
 width = 735;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 041E;
 },
 {
@@ -20338,6 +20437,8 @@ nodes = (
 width = 740;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 041F;
 },
 {
@@ -20353,6 +20454,8 @@ layerId = UUID0;
 width = 604;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = P;
 unicode = 0420;
 },
 {
@@ -20374,6 +20477,8 @@ layerId = UUID0;
 width = 639;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = C;
 unicode = 0421;
 },
 {
@@ -20395,6 +20500,8 @@ layerId = UUID0;
 width = 600;
 }
 );
+leftKerningGroup = T;
+rightKerningGroup = T;
 unicode = 0422;
 },
 {
@@ -20484,6 +20591,8 @@ nodes = (
 width = 677;
 }
 );
+leftKerningGroup = "U-cy";
+rightKerningGroup = "U-cy";
 unicode = 0423;
 },
 {
@@ -20503,6 +20612,8 @@ layerId = UUID0;
 width = 677;
 }
 );
+leftKerningGroup = "U-cy";
+rightKerningGroup = "U-cy";
 unicode = 040E;
 },
 {
@@ -20604,6 +20715,8 @@ nodes = (
 width = 751;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 0424;
 },
 {
@@ -20625,6 +20738,8 @@ layerId = UUID0;
 width = 653;
 }
 );
+leftKerningGroup = X;
+rightKerningGroup = X;
 unicode = 0425;
 },
 {
@@ -20748,6 +20863,8 @@ nodes = (
 width = 683;
 }
 );
+leftKerningGroup = "Che-cy";
+rightKerningGroup = I;
 unicode = 0427;
 },
 {
@@ -20867,6 +20984,8 @@ nodes = (
 width = 821;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = "Tse-cy";
 unicode = 0426;
 },
 {
@@ -20995,6 +21114,8 @@ nodes = (
 width = 1038;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 0428;
 },
 {
@@ -21144,6 +21265,8 @@ nodes = (
 width = 1102;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = "Tse-cy";
 unicode = 0429;
 },
 {
@@ -21371,7 +21494,9 @@ nodes = (
 width = 752;
 }
 );
+leftKerningGroup = I;
 leftMetricsKey = H;
+rightKerningGroup = I;
 rightMetricsKey = H;
 unicode = 040F;
 },
@@ -21456,6 +21581,8 @@ nodes = (
 width = 588;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = "Softsign-cy";
 unicode = 042C;
 },
 {
@@ -21542,6 +21669,8 @@ nodes = (
 width = 729;
 }
 );
+leftKerningGroup = T;
+rightKerningGroup = "Softsign-cy";
 unicode = 042A;
 },
 {
@@ -21686,6 +21815,8 @@ nodes = (
 width = 904;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 042B;
 },
 {
@@ -21762,7 +21893,9 @@ nodes = (
 width = 963;
 }
 );
+leftKerningGroup = "El-cy";
 leftMetricsKey = "El-cy";
+rightKerningGroup = "Softsign-cy";
 rightMetricsKey = "Softsign-cy";
 unicode = 0409;
 },
@@ -21901,7 +22034,9 @@ nodes = (
 width = 958;
 }
 );
+leftKerningGroup = I;
 leftMetricsKey = H;
+rightKerningGroup = "Softsign-cy";
 rightMetricsKey = "Softsign-cy";
 unicode = 040A;
 },
@@ -21918,6 +22053,8 @@ layerId = UUID0;
 width = 545;
 }
 );
+leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 0405;
 },
 {
@@ -21967,7 +22104,9 @@ nodes = (
 width = 639;
 }
 );
+leftKerningGroup = O;
 leftMetricsKey = C;
+rightKerningGroup = C;
 rightMetricsKey = C;
 unicode = 0404;
 },
@@ -22040,6 +22179,8 @@ nodes = (
 width = 621;
 }
 );
+leftKerningGroup = "Ereversed-cy";
+rightKerningGroup = O;
 unicode = 042D;
 },
 {
@@ -22055,6 +22196,8 @@ layerId = UUID0;
 width = 364;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 0406;
 },
 {
@@ -22074,6 +22217,8 @@ layerId = UUID0;
 width = 364;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 0407;
 },
 {
@@ -22089,6 +22234,8 @@ layerId = UUID0;
 width = 345;
 }
 );
+leftKerningGroup = J;
+rightKerningGroup = U;
 unicode = 0408;
 },
 {
@@ -22253,7 +22400,9 @@ nodes = (
 width = 798;
 }
 );
+leftKerningGroup = T;
 leftMetricsKey = T;
+rightKerningGroup = "Tshe-cy";
 unicode = 040B;
 },
 {
@@ -22359,6 +22508,8 @@ nodes = (
 width = 999;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = O;
 unicode = 042E;
 },
 {
@@ -22469,6 +22620,8 @@ nodes = (
 width = 718;
 }
 );
+leftKerningGroup = "Ia-cy";
+rightKerningGroup = I;
 unicode = 042F;
 },
 {
@@ -22649,7 +22802,9 @@ nodes = (
 width = 692;
 }
 );
+leftKerningGroup = T;
 leftMetricsKey = T;
+rightKerningGroup = "Tshe-cy";
 unicode = 0402;
 },
 {
@@ -22805,7 +22960,9 @@ nodes = (
 width = 694;
 }
 );
+leftKerningGroup = I;
 leftMetricsKey = T;
+rightKerningGroup = "Softsign-cy";
 rightMetricsKey = "Softsign-cy";
 unicode = 0462;
 },
@@ -23083,7 +23240,9 @@ nodes = (
 width = 986;
 }
 );
+leftKerningGroup = X;
 leftMetricsKey = "=|ka-cy";
+rightKerningGroup = X;
 rightMetricsKey = "Ka-cy";
 unicode = 046A;
 },
@@ -23140,6 +23299,8 @@ nodes = (
 width = 740;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 0472;
 },
 {
@@ -23155,6 +23316,8 @@ layerId = UUID0;
 width = 648;
 }
 );
+leftKerningGroup = V;
+rightKerningGroup = V;
 unicode = 0474;
 },
 {
@@ -23244,6 +23407,8 @@ nodes = (
 width = 522;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = "Ge-cy";
 unicode = 0492;
 },
 {
@@ -23341,7 +23506,9 @@ nodes = (
 width = 584;
 }
 );
+leftKerningGroup = I;
 leftMetricsKey = H;
+rightKerningGroup = "Tshe-cy";
 unicode = 0494;
 },
 {
@@ -23627,6 +23794,8 @@ nodes = (
 width = 1116;
 }
 );
+leftKerningGroup = X;
+rightKerningGroup = "Kadescender-cy";
 unicode = 0496;
 },
 {
@@ -23660,6 +23829,8 @@ nodes = (
 width = 544;
 }
 );
+leftKerningGroup = "Ze-cy";
+rightKerningGroup = B;
 unicode = 0498;
 },
 {
@@ -23794,6 +23965,8 @@ nodes = (
 width = 736;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = "Kadescender-cy";
 unicode = 049A;
 },
 {
@@ -23930,6 +24103,7 @@ nodes = (
 width = 700;
 }
 );
+leftKerningGroup = I;
 note = uni049C;
 rightKerningGroup = afii10061;
 unicode = 049C;
@@ -24056,7 +24230,9 @@ nodes = (
 width = 884;
 }
 );
+leftKerningGroup = T;
 leftMetricsKey = T;
+rightKerningGroup = K;
 rightMetricsKey = "Ka-cy";
 unicode = 04A0;
 },
@@ -24077,6 +24253,8 @@ layerId = UUID0;
 width = 777;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 04A2;
 },
 {
@@ -24110,6 +24288,8 @@ nodes = (
 width = 639;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = C;
 unicode = 04AA;
 },
 {
@@ -24131,6 +24311,8 @@ layerId = UUID0;
 width = 621;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 unicode = 04AE;
 },
 {
@@ -24150,6 +24332,8 @@ layerId = UUID0;
 width = 621;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 unicode = 04B0;
 },
 {
@@ -24169,6 +24353,8 @@ layerId = UUID0;
 width = 683;
 }
 );
+leftKerningGroup = "Che-cy";
+rightKerningGroup = I;
 unicode = 04B6;
 },
 {
@@ -24213,6 +24399,7 @@ width = 683;
 );
 leftKerningGroup = afii10041;
 note = uni04B8;
+rightKerningGroup = I;
 unicode = 04B8;
 },
 {
@@ -24235,6 +24422,8 @@ layerId = UUID0;
 width = 683;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = "Tshe-cy";
 unicode = 04BA;
 },
 {
@@ -24250,6 +24439,8 @@ layerId = UUID0;
 width = 364;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 04C0;
 },
 {
@@ -24269,6 +24460,8 @@ layerId = UUID0;
 width = 1116;
 }
 );
+leftKerningGroup = X;
+rightKerningGroup = K;
 unicode = 04C1;
 },
 {
@@ -24308,6 +24501,8 @@ nodes = (
 width = 683;
 }
 );
+leftKerningGroup = "Che-cy";
+rightKerningGroup = I;
 unicode = 04CB;
 },
 {
@@ -24327,6 +24522,8 @@ layerId = UUID0;
 width = 653;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 04D0;
 },
 {
@@ -24346,6 +24543,8 @@ layerId = UUID0;
 width = 653;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 04D2;
 },
 {
@@ -24365,6 +24564,8 @@ layerId = UUID0;
 width = 594;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = E;
 unicode = 04D6;
 },
 {
@@ -24426,7 +24627,9 @@ nodes = (
 width = 697;
 }
 );
+leftKerningGroup = "Ereversed-cy";
 leftMetricsKey = O;
+rightKerningGroup = O;
 rightMetricsKey = O;
 unicode = 04D8;
 },
@@ -24447,6 +24650,8 @@ layerId = UUID0;
 width = 1116;
 }
 );
+leftKerningGroup = X;
+rightKerningGroup = K;
 unicode = 04DC;
 },
 {
@@ -24466,6 +24671,8 @@ layerId = UUID0;
 width = 544;
 }
 );
+leftKerningGroup = "Ze-cy";
+rightKerningGroup = B;
 unicode = 04DE;
 },
 {
@@ -24485,6 +24692,8 @@ layerId = UUID0;
 width = 756;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 04E2;
 },
 {
@@ -24504,6 +24713,8 @@ layerId = UUID0;
 width = 756;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 04E4;
 },
 {
@@ -24523,6 +24734,8 @@ layerId = UUID0;
 width = 735;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 04E6;
 },
 {
@@ -24557,7 +24770,9 @@ nodes = (
 width = 735;
 }
 );
+leftKerningGroup = O;
 leftMetricsKey = O;
+rightKerningGroup = O;
 rightMetricsKey = O;
 unicode = 04E8;
 },
@@ -24578,6 +24793,8 @@ layerId = UUID0;
 width = 677;
 }
 );
+leftKerningGroup = "U-cy";
+rightKerningGroup = "U-cy";
 unicode = 04EE;
 },
 {
@@ -24597,6 +24814,8 @@ layerId = UUID0;
 width = 677;
 }
 );
+leftKerningGroup = "U-cy";
+rightKerningGroup = "U-cy";
 unicode = 04F0;
 },
 {
@@ -24616,6 +24835,8 @@ layerId = UUID0;
 width = 677;
 }
 );
+leftKerningGroup = "U-cy";
+rightKerningGroup = "U-cy";
 unicode = 04F2;
 },
 {
@@ -24635,6 +24856,8 @@ layerId = UUID0;
 width = 683;
 }
 );
+leftKerningGroup = "Che-cy";
+rightKerningGroup = I;
 unicode = 04F4;
 },
 {
@@ -24654,6 +24877,8 @@ layerId = UUID0;
 width = 522;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = "Ge-cy";
 unicode = 04F6;
 },
 {
@@ -24673,6 +24898,8 @@ layerId = UUID0;
 width = 904;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 04F8;
 },
 {
@@ -24688,6 +24915,8 @@ layerId = UUID0;
 width = 737;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 051A;
 },
 {
@@ -24703,6 +24932,8 @@ layerId = UUID0;
 width = 934;
 }
 );
+leftKerningGroup = V;
+rightKerningGroup = V;
 unicode = 051C;
 },
 {
@@ -24724,6 +24955,8 @@ layerId = UUID0;
 width = 501;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 0430;
 },
 {
@@ -24789,6 +25022,8 @@ nodes = (
 width = 556;
 }
 );
+leftKerningGroup = "be-cy";
+rightKerningGroup = o;
 unicode = 0431;
 },
 {
@@ -24880,6 +25115,8 @@ nodes = (
 width = 559;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = "ve-cy";
 unicode = 0432;
 },
 {
@@ -24964,6 +25201,8 @@ nodes = (
 width = 490;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = "ge-cy";
 unicode = 0433;
 },
 {
@@ -24983,6 +25222,8 @@ layerId = UUID0;
 width = 490;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = "ge-cy";
 unicode = 0453;
 },
 {
@@ -25115,6 +25356,8 @@ nodes = (
 width = 490;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = "ge-cy";
 rightMetricsKey = "ge-cy";
 unicode = 0491;
 },
@@ -25218,6 +25461,8 @@ nodes = (
 width = 616;
 }
 );
+leftKerningGroup = "de-cy";
+rightKerningGroup = "tse-cy";
 unicode = 0434;
 },
 {
@@ -25239,6 +25484,8 @@ layerId = UUID0;
 width = 502;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = e;
 unicode = 0435;
 },
 {
@@ -25258,6 +25505,8 @@ layerId = UUID0;
 width = 502;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = e;
 unicode = 0450;
 },
 {
@@ -25277,6 +25526,8 @@ layerId = UUID0;
 width = 502;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = e;
 unicode = 0451;
 },
 {
@@ -25440,6 +25691,8 @@ nodes = (
 width = 912;
 }
 );
+leftKerningGroup = x;
+rightKerningGroup = x;
 unicode = 0436;
 },
 {
@@ -25538,6 +25791,8 @@ nodes = (
 width = 481;
 }
 );
+leftKerningGroup = "ze-cy";
+rightKerningGroup = "ve-cy";
 unicode = 0437;
 },
 {
@@ -25647,6 +25902,8 @@ nodes = (
 width = 635;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = u;
 unicode = 0438;
 },
 {
@@ -25672,6 +25929,8 @@ layerId = UUID0;
 width = 635;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = u;
 unicode = 0439;
 },
 {
@@ -25691,6 +25950,8 @@ layerId = UUID0;
 width = 635;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = u;
 unicode = 045D;
 },
 {
@@ -25815,6 +26076,8 @@ nodes = (
 width = 626;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = k;
 unicode = 043A;
 },
 {
@@ -25834,6 +26097,8 @@ layerId = UUID0;
 width = 626;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = k;
 unicode = 045C;
 },
 {
@@ -25939,6 +26204,8 @@ nodes = (
 width = 666;
 }
 );
+leftKerningGroup = "el-cy";
+rightKerningGroup = u;
 unicode = 043B;
 },
 {
@@ -26048,6 +26315,8 @@ nodes = (
 width = 752;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = u;
 unicode = 043C;
 },
 {
@@ -26175,6 +26444,8 @@ nodes = (
 width = 645;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = n;
 unicode = 043D;
 },
 {
@@ -26200,6 +26471,8 @@ layerId = UUID0;
 width = 548;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 043E;
 },
 {
@@ -26304,6 +26577,8 @@ nodes = (
 width = 635;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = u;
 unicode = 043F;
 },
 {
@@ -26319,6 +26594,8 @@ layerId = UUID0;
 width = 584;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = o;
 unicode = 0440;
 },
 {
@@ -26340,6 +26617,8 @@ layerId = UUID0;
 width = 475;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = c;
 unicode = 0441;
 },
 {
@@ -26418,6 +26697,8 @@ nodes = (
 width = 551;
 }
 );
+leftKerningGroup = "te-cy";
+rightKerningGroup = "te-cy";
 unicode = 0442;
 },
 {
@@ -26439,6 +26720,8 @@ layerId = UUID0;
 width = 552;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 0443;
 },
 {
@@ -26458,6 +26741,8 @@ layerId = UUID0;
 width = 552;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 045E;
 },
 {
@@ -26565,6 +26850,8 @@ nodes = (
 width = 743;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 0444;
 },
 {
@@ -26586,6 +26873,8 @@ layerId = UUID0;
 width = 541;
 }
 );
+leftKerningGroup = x;
+rightKerningGroup = x;
 unicode = 0445;
 },
 {
@@ -26706,6 +26995,8 @@ nodes = (
 width = 625;
 }
 );
+leftKerningGroup = "che-cy";
+rightKerningGroup = u;
 unicode = 0447;
 },
 {
@@ -26825,6 +27116,8 @@ nodes = (
 width = 693;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = "tse-cy";
 unicode = 0446;
 },
 {
@@ -26953,6 +27246,8 @@ nodes = (
 width = 903;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = u;
 unicode = 0448;
 },
 {
@@ -27102,6 +27397,8 @@ nodes = (
 width = 951;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = "tse-cy";
 unicode = 0449;
 },
 {
@@ -27138,6 +27435,8 @@ nodes = (
 width = 635;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = u;
 unicode = 045F;
 },
 {
@@ -27221,6 +27520,8 @@ nodes = (
 width = 557;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = "softsign-cy";
 unicode = 044C;
 },
 {
@@ -27307,6 +27608,8 @@ nodes = (
 width = 682;
 }
 );
+leftKerningGroup = "te-cy";
+rightKerningGroup = "softsign-cy";
 unicode = 044A;
 },
 {
@@ -27451,6 +27754,8 @@ nodes = (
 width = 799;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = u;
 unicode = 044B;
 },
 {
@@ -27550,6 +27855,8 @@ nodes = (
 width = 741;
 }
 );
+leftKerningGroup = "el-cy";
+rightKerningGroup = "softsign-cy";
 unicode = 0459;
 },
 {
@@ -27652,6 +27959,8 @@ nodes = (
 width = 810;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = "softsign-cy";
 unicode = 045A;
 },
 {
@@ -27667,6 +27976,8 @@ layerId = UUID0;
 width = 443;
 }
 );
+leftKerningGroup = s;
+rightKerningGroup = s;
 unicode = 0455;
 },
 {
@@ -27716,7 +28027,9 @@ nodes = (
 width = 475;
 }
 );
+leftKerningGroup = o;
 leftMetricsKey = c;
+rightKerningGroup = c;
 rightMetricsKey = c;
 unicode = 0454;
 },
@@ -27793,6 +28106,8 @@ nodes = (
 width = 509;
 }
 );
+leftKerningGroup = "ereversed-cy";
+rightKerningGroup = o;
 unicode = 044D;
 },
 {
@@ -27808,6 +28123,8 @@ layerId = UUID0;
 width = 296;
 }
 );
+leftKerningGroup = i;
+rightKerningGroup = i;
 unicode = 0456;
 },
 {
@@ -27827,6 +28144,8 @@ layerId = UUID0;
 width = 296;
 }
 );
+leftKerningGroup = idotless;
+rightKerningGroup = idotless;
 unicode = 0457;
 },
 {
@@ -27842,6 +28161,8 @@ layerId = UUID0;
 width = 300;
 }
 );
+leftKerningGroup = jdotless;
+rightKerningGroup = j;
 unicode = 0458;
 },
 {
@@ -28049,6 +28370,8 @@ nodes = (
 width = 588;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 rightMetricsKey = n;
 unicode = 045B;
 },
@@ -28163,6 +28486,8 @@ nodes = (
 width = 833;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = o;
 unicode = 044E;
 },
 {
@@ -28276,6 +28601,8 @@ nodes = (
 width = 648;
 }
 );
+leftKerningGroup = "ia-cy";
+rightKerningGroup = u;
 unicode = 044F;
 },
 {
@@ -28522,6 +28849,8 @@ nodes = (
 width = 574;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 0452;
 },
 {
@@ -28703,7 +29032,9 @@ nodes = (
 width = 656;
 }
 );
+leftKerningGroup = I;
 leftMetricsKey = "te-cy";
+rightKerningGroup = "softsign-cy";
 rightMetricsKey = "softsign-cy";
 unicode = 0463;
 },
@@ -28857,7 +29188,9 @@ nodes = (
 width = 834;
 }
 );
+leftKerningGroup = x;
 leftMetricsKey = "=|zhe-cy";
+rightKerningGroup = x;
 rightMetricsKey = "zhe-cy";
 unicode = 046B;
 },
@@ -28908,7 +29241,9 @@ nodes = (
 width = 548;
 }
 );
+leftKerningGroup = o;
 leftMetricsKey = o;
+rightKerningGroup = o;
 rightMetricsKey = o;
 unicode = 0473;
 },
@@ -28925,6 +29260,8 @@ layerId = UUID0;
 width = 551;
 }
 );
+leftKerningGroup = v;
+rightKerningGroup = v;
 unicode = 0475;
 },
 {
@@ -28944,6 +29281,8 @@ layerId = UUID0;
 width = 490;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = "ge-cy";
 unicode = 0493;
 },
 {
@@ -29079,7 +29418,9 @@ nodes = (
 width = 542;
 }
 );
+leftKerningGroup = n;
 leftMetricsKey = "en-cy";
+rightKerningGroup = "midddehook-cy";
 unicode = 0495;
 },
 {
@@ -29365,6 +29706,8 @@ nodes = (
 width = 912;
 }
 );
+leftKerningGroup = x;
+rightKerningGroup = "kadescender-cy";
 unicode = 0497;
 },
 {
@@ -29398,6 +29741,8 @@ nodes = (
 width = 481;
 }
 );
+leftKerningGroup = "ze-cy";
+rightKerningGroup = "ve-cy";
 unicode = 0499;
 },
 {
@@ -29538,6 +29883,8 @@ nodes = (
 width = 626;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = "kadescender-cy";
 unicode = 049B;
 },
 {
@@ -29682,7 +30029,9 @@ nodes = (
 width = 760;
 }
 );
+leftKerningGroup = "te-cy";
 leftMetricsKey = "te-cy";
+rightKerningGroup = k;
 rightMetricsKey = "ka-cy";
 unicode = 04A1;
 },
@@ -29703,6 +30052,8 @@ layerId = UUID0;
 width = 645;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = n;
 unicode = 04A3;
 },
 {
@@ -29736,6 +30087,8 @@ nodes = (
 width = 475;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = c;
 unicode = 04AB;
 },
 {
@@ -29832,6 +30185,8 @@ nodes = (
 width = 552;
 }
 );
+leftKerningGroup = v;
+rightKerningGroup = v;
 rightMetricsKey = v;
 unicode = 04AF;
 },
@@ -29852,6 +30207,8 @@ layerId = UUID0;
 width = 552;
 }
 );
+leftKerningGroup = v;
+rightKerningGroup = v;
 unicode = 04B1;
 },
 {
@@ -29871,6 +30228,8 @@ layerId = UUID0;
 width = 625;
 }
 );
+leftKerningGroup = "che-cy";
+rightKerningGroup = u;
 unicode = 04B7;
 },
 {
@@ -29892,6 +30251,7 @@ width = 625;
 );
 leftKerningGroup = afii10089;
 note = uni04B9;
+rightKerningGroup = u;
 unicode = 04B9;
 },
 {
@@ -29913,6 +30273,8 @@ layerId = UUID0;
 width = 589;
 }
 );
+leftKerningGroup = h;
+rightKerningGroup = n;
 unicode = 04BB;
 },
 {
@@ -29987,6 +30349,8 @@ nodes = (
 width = 332;
 }
 );
+leftKerningGroup = i;
+rightKerningGroup = i;
 unicode = 04CF;
 },
 {
@@ -30006,6 +30370,8 @@ layerId = UUID0;
 width = 912;
 }
 );
+leftKerningGroup = x;
+rightKerningGroup = x;
 unicode = 04C2;
 },
 {
@@ -30045,6 +30411,8 @@ nodes = (
 width = 625;
 }
 );
+leftKerningGroup = "che-cy";
+rightKerningGroup = u;
 unicode = 04CC;
 },
 {
@@ -30064,6 +30432,8 @@ layerId = UUID0;
 width = 501;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 04D1;
 },
 {
@@ -30083,6 +30453,8 @@ layerId = UUID0;
 width = 501;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 04D3;
 },
 {
@@ -30102,6 +30474,8 @@ layerId = UUID0;
 width = 502;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = e;
 unicode = 04D7;
 },
 {
@@ -30171,7 +30545,9 @@ nodes = (
 width = 497;
 }
 );
+leftKerningGroup = o;
 leftMetricsKey = o;
+rightKerningGroup = o;
 rightMetricsKey = o;
 unicode = 04D9;
 },
@@ -30192,6 +30568,8 @@ layerId = UUID0;
 width = 912;
 }
 );
+leftKerningGroup = x;
+rightKerningGroup = x;
 unicode = 04DD;
 },
 {
@@ -30211,6 +30589,8 @@ layerId = UUID0;
 width = 481;
 }
 );
+leftKerningGroup = "ze-cy";
+rightKerningGroup = "ve-cy";
 unicode = 04DF;
 },
 {
@@ -30230,6 +30610,8 @@ layerId = UUID0;
 width = 635;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = u;
 unicode = 04E3;
 },
 {
@@ -30249,6 +30631,8 @@ layerId = UUID0;
 width = 635;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = u;
 unicode = 04E5;
 },
 {
@@ -30268,6 +30652,8 @@ layerId = UUID0;
 width = 548;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 04E7;
 },
 {
@@ -30302,7 +30688,9 @@ nodes = (
 width = 548;
 }
 );
+leftKerningGroup = o;
 leftMetricsKey = o;
+rightKerningGroup = o;
 rightMetricsKey = o;
 unicode = 04E9;
 },
@@ -30323,6 +30711,8 @@ layerId = UUID0;
 width = 552;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 04EF;
 },
 {
@@ -30342,6 +30732,8 @@ layerId = UUID0;
 width = 552;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 04F1;
 },
 {
@@ -30361,6 +30753,8 @@ layerId = UUID0;
 width = 552;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 04F3;
 },
 {
@@ -30380,6 +30774,8 @@ layerId = UUID0;
 width = 625;
 }
 );
+leftKerningGroup = "che-cy";
+rightKerningGroup = u;
 unicode = 04F5;
 },
 {
@@ -30399,6 +30795,8 @@ layerId = UUID0;
 width = 490;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = "ge-cy";
 unicode = 04F7;
 },
 {
@@ -30418,6 +30816,8 @@ layerId = UUID0;
 width = 799;
 }
 );
+leftKerningGroup = n;
+rightKerningGroup = u;
 unicode = 04F9;
 },
 {
@@ -30433,6 +30833,8 @@ layerId = UUID0;
 width = 559;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = q;
 unicode = 051B;
 },
 {
@@ -30448,6 +30850,8 @@ layerId = UUID0;
 width = 798;
 }
 );
+leftKerningGroup = v;
+rightKerningGroup = v;
 unicode = 051D;
 },
 {
@@ -30584,7 +30988,9 @@ nodes = (
 width = 890;
 }
 );
+leftKerningGroup = I;
 leftMetricsKey = h;
+rightKerningGroup = "Ge-cy";
 rightMetricsKey = "Ge-cy";
 unicode = 04A4;
 },
@@ -30721,7 +31127,9 @@ nodes = (
 width = 760;
 }
 );
+leftKerningGroup = n;
 leftMetricsKey = "en-cy";
+rightKerningGroup = "ge-cy";
 rightMetricsKey = "ge-cy";
 unicode = 04A5;
 },
@@ -30738,6 +31146,8 @@ layerId = UUID0;
 width = 902;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = E;
 unicode = 04D4;
 },
 {
@@ -30753,6 +31163,8 @@ layerId = UUID0;
 width = 773;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = e;
 unicode = 04D5;
 },
 {
@@ -30845,6 +31257,8 @@ nodes = (
 width = 585;
 }
 );
+leftKerningGroup = zero;
+rightKerningGroup = zero;
 unicode = 0030;
 },
 {
@@ -30965,6 +31379,8 @@ nodes = (
 width = 428;
 }
 );
+leftKerningGroup = one;
+rightKerningGroup = one;
 unicode = 0031;
 },
 {
@@ -31085,6 +31501,8 @@ nodes = (
 width = 491;
 }
 );
+leftKerningGroup = two;
+rightKerningGroup = two;
 unicode = 0032;
 },
 {
@@ -31253,6 +31671,8 @@ nodes = (
 width = 487;
 }
 );
+leftKerningGroup = three;
+rightKerningGroup = three;
 unicode = 0033;
 },
 {
@@ -31356,6 +31776,8 @@ nodes = (
 width = 496;
 }
 );
+leftKerningGroup = four;
+rightKerningGroup = four;
 unicode = 0034;
 },
 {
@@ -31497,6 +31919,8 @@ nodes = (
 width = 485;
 }
 );
+leftKerningGroup = five;
+rightKerningGroup = five;
 unicode = 0035;
 },
 {
@@ -31621,6 +32045,8 @@ nodes = (
 width = 509;
 }
 );
+leftKerningGroup = six;
+rightKerningGroup = six;
 unicode = 0036;
 },
 {
@@ -31716,6 +32142,8 @@ nodes = (
 width = 426;
 }
 );
+leftKerningGroup = seven;
+rightKerningGroup = seven;
 unicode = 0037;
 },
 {
@@ -31871,6 +32299,8 @@ nodes = (
 width = 513;
 }
 );
+leftKerningGroup = eight;
+rightKerningGroup = eight;
 unicode = 0038;
 },
 {
@@ -31995,6 +32425,8 @@ nodes = (
 width = 508;
 }
 );
+leftKerningGroup = nine;
+rightKerningGroup = nine;
 unicode = 0039;
 },
 {
@@ -32115,6 +32547,8 @@ nodes = (
 width = 335;
 }
 );
+leftKerningGroup = onesuperior;
+rightKerningGroup = onesuperior;
 unicode = 00B9;
 },
 {
@@ -32233,6 +32667,8 @@ nodes = (
 width = 379;
 }
 );
+leftKerningGroup = twosuperior;
+rightKerningGroup = twosuperior;
 unicode = 00B2;
 },
 {
@@ -32395,6 +32831,8 @@ nodes = (
 width = 359;
 }
 );
+leftKerningGroup = threesuperior;
+rightKerningGroup = threesuperior;
 unicode = 00B3;
 },
 {
@@ -32502,6 +32940,8 @@ nodes = (
 width = 359;
 }
 );
+leftKerningGroup = foursuperior;
+rightKerningGroup = foursuperior;
 unicode = 2074;
 },
 {
@@ -32556,6 +32996,8 @@ nodes = (
 width = 350;
 }
 );
+leftKerningGroup = fraction;
+rightKerningGroup = fraction;
 unicode = 2044;
 },
 {
@@ -32816,6 +33258,8 @@ nodes = (
 width = 852;
 }
 );
+leftKerningGroup = onehalf;
+rightKerningGroup = onehalf;
 unicode = 00BD;
 },
 {
@@ -33065,6 +33509,8 @@ nodes = (
 width = 809;
 }
 );
+leftKerningGroup = onehalf;
+rightKerningGroup = onehalf;
 unicode = 00BC;
 },
 {
@@ -33356,6 +33802,8 @@ nodes = (
 width = 852;
 }
 );
+leftKerningGroup = onehalf;
+rightKerningGroup = onehalf;
 unicode = 00BE;
 },
 {
@@ -33570,6 +34018,8 @@ nodes = (
 width = 526;
 }
 );
+leftKerningGroup = asterisk;
+rightKerningGroup = asterisk;
 unicode = 002A;
 },
 {
@@ -33624,6 +34074,8 @@ nodes = (
 width = 394;
 }
 );
+leftKerningGroup = backslash;
+rightKerningGroup = backslash;
 unicode = 005C;
 },
 {
@@ -33674,6 +34126,8 @@ nodes = (
 width = 236;
 }
 );
+leftKerningGroup = hyphen;
+rightKerningGroup = hyphen;
 unicode = 00B7;
 },
 {
@@ -33730,6 +34184,8 @@ nodes = (
 width = 427;
 }
 );
+leftKerningGroup = hyphen;
+rightKerningGroup = hyphen;
 unicode = 2022;
 },
 {
@@ -33815,6 +34271,7 @@ width = 248;
 }
 );
 leftKerningGroup = colon;
+rightKerningGroup = colon;
 unicode = 003A;
 },
 {
@@ -33987,6 +34444,8 @@ nodes = (
 width = 262;
 }
 );
+leftKerningGroup = exclam;
+rightKerningGroup = exclam;
 unicode = 0021;
 },
 {
@@ -34087,6 +34546,8 @@ nodes = (
 width = 242;
 }
 );
+leftKerningGroup = exclam;
+rightKerningGroup = exclam;
 unicode = 00A1;
 },
 {
@@ -34266,6 +34727,8 @@ nodes = (
 width = 616;
 }
 );
+leftKerningGroup = numbersign;
+rightKerningGroup = numbersign;
 unicode = 0023;
 },
 {
@@ -34500,6 +34963,8 @@ nodes = (
 width = 435;
 }
 );
+leftKerningGroup = quesion;
+rightKerningGroup = question;
 unicode = 003F;
 },
 {
@@ -34685,6 +35150,8 @@ nodes = (
 width = 432;
 }
 );
+leftKerningGroup = questiondown;
+rightKerningGroup = questiondown;
 unicode = 00BF;
 },
 {
@@ -34976,6 +35443,7 @@ width = 261;
 }
 );
 leftKerningGroup = colon;
+rightKerningGroup = colon;
 unicode = 003B;
 },
 {
@@ -35030,6 +35498,8 @@ nodes = (
 width = 394;
 }
 );
+leftKerningGroup = slash;
+rightKerningGroup = slash;
 unicode = 002F;
 },
 {
@@ -35084,6 +35554,8 @@ nodes = (
 width = 668;
 }
 );
+leftKerningGroup = period;
+rightKerningGroup = period;
 unicode = 005F;
 },
 {
@@ -35240,6 +35712,8 @@ nodes = (
 width = 286;
 }
 );
+leftKerningGroup = parenleft;
+rightKerningGroup = parenleft;
 unicode = 007B;
 },
 {
@@ -35396,6 +35870,8 @@ nodes = (
 width = 286;
 }
 );
+leftKerningGroup = parenright;
+rightKerningGroup = parenright;
 unicode = 007D;
 },
 {
@@ -35480,6 +35956,8 @@ nodes = (
 width = 310;
 }
 );
+leftKerningGroup = parenleft;
+rightKerningGroup = parenleft;
 unicode = 005B;
 },
 {
@@ -35564,6 +36042,8 @@ nodes = (
 width = 340;
 }
 );
+leftKerningGroup = parenright;
+rightKerningGroup = parenright;
 unicode = 005D;
 },
 {
@@ -35640,6 +36120,8 @@ nodes = (
 width = 293;
 }
 );
+leftKerningGroup = parenleft;
+rightKerningGroup = parenleft;
 unicode = 0028;
 },
 {
@@ -35716,6 +36198,8 @@ nodes = (
 width = 293;
 }
 );
+leftKerningGroup = parenright;
+rightKerningGroup = parenright;
 unicode = 0029;
 },
 {
@@ -36006,6 +36490,8 @@ nodes = (
 width = 474;
 }
 );
+leftKerningGroup = guilsinglleft;
+rightKerningGroup = guilsinglleft;
 unicode = 00AB;
 },
 {
@@ -36072,6 +36558,8 @@ nodes = (
 width = 473;
 }
 );
+leftKerningGroup = guilsinglright;
+rightKerningGroup = guilsinglright;
 unicode = 00BB;
 },
 {
@@ -36140,6 +36628,8 @@ nodes = (
 width = 426;
 }
 );
+leftKerningGroup = guilsinglleft;
+rightKerningGroup = guilsinglleft;
 unicode = 2039;
 },
 {
@@ -36208,6 +36698,8 @@ nodes = (
 width = 426;
 }
 );
+leftKerningGroup = guilsinglright;
+rightKerningGroup = guilsinglright;
 unicode = 203A;
 },
 {
@@ -36805,6 +37297,7 @@ rightKerningGroup = period;
 unicode = 201A;
 },
 {
+color = 11;
 glyphname = space;
 layers = (
 {
@@ -36815,6 +37308,7 @@ width = 223;
 unicode = 0020;
 },
 {
+color = 11;
 glyphname = nbspace;
 layers = (
 {
@@ -36826,6 +37320,7 @@ widthMetricsKey = space;
 unicode = 00A0;
 },
 {
+color = 11;
 glyphname = CR;
 layers = (
 {
@@ -36836,6 +37331,7 @@ width = 600;
 unicode = 000D;
 },
 {
+color = 11;
 glyphname = .notdef;
 layers = (
 {
@@ -37007,6 +37503,8 @@ nodes = (
 width = 490;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = c;
 unicode = 00A2;
 },
 {
@@ -37201,6 +37699,8 @@ nodes = (
 width = 608;
 }
 );
+leftKerningGroup = currency;
+rightKerningGroup = currency;
 unicode = 00A4;
 },
 {
@@ -37419,6 +37919,8 @@ nodes = (
 width = 500;
 }
 );
+leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 0024;
 },
 {
@@ -37614,6 +38116,8 @@ nodes = (
 width = 617;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = C;
 unicode = 20AC;
 },
 {
@@ -37738,6 +38242,8 @@ nodes = (
 width = 514;
 }
 );
+leftKerningGroup = hryvnia;
+rightKerningGroup = hryvnia;
 unicode = 20B4;
 },
 {
@@ -37903,6 +38409,8 @@ nodes = (
 width = 545;
 }
 );
+leftKerningGroup = Hbar;
+rightKerningGroup = P;
 unicode = 20BD;
 },
 {
@@ -38071,6 +38579,8 @@ nodes = (
 width = 545;
 }
 );
+leftKerningGroup = sterling;
+rightKerningGroup = sterling;
 unicode = 00A3;
 },
 {
@@ -38283,7 +38793,9 @@ nodes = (
 width = 556;
 }
 );
+leftKerningGroup = tenge;
 leftMetricsKey = T;
+rightKerningGroup = tenge;
 unicode = 20B8;
 },
 {
@@ -38417,7 +38929,9 @@ nodes = (
 width = 508;
 }
 );
+leftKerningGroup = tugrik;
 leftMetricsKey = T;
+rightKerningGroup = tugrik;
 rightMetricsKey = T;
 unicode = 20AE;
 },
@@ -38670,6 +39184,8 @@ nodes = (
 width = 633;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 unicode = 00A5;
 },
 {
@@ -38760,6 +39276,8 @@ nodes = (
 width = 566;
 }
 );
+leftKerningGroup = plus;
+rightKerningGroup = plus;
 unicode = 002B;
 },
 {
@@ -38814,6 +39332,8 @@ nodes = (
 width = 630;
 }
 );
+leftKerningGroup = plus;
+rightKerningGroup = plus;
 unicode = 2212;
 },
 {
@@ -38912,6 +39432,8 @@ nodes = (
 width = 518;
 }
 );
+leftKerningGroup = plus;
+rightKerningGroup = plus;
 unicode = 00D7;
 },
 {
@@ -38993,6 +39515,8 @@ layerId = UUID0;
 width = 600;
 }
 );
+leftKerningGroup = minus;
+rightKerningGroup = plus;
 unicode = 00F7;
 },
 {
@@ -39085,6 +39609,8 @@ nodes = (
 width = 630;
 }
 );
+leftKerningGroup = plus;
+rightKerningGroup = plus;
 unicode = 003D;
 },
 {
@@ -39158,6 +39684,8 @@ nodes = (
 width = 529;
 }
 );
+leftKerningGroup = plus;
+rightKerningGroup = plus;
 unicode = 003E;
 },
 {
@@ -39231,6 +39759,8 @@ nodes = (
 width = 529;
 }
 );
+leftKerningGroup = plus;
+rightKerningGroup = plus;
 unicode = 003C;
 },
 {
@@ -39359,6 +39889,8 @@ nodes = (
 width = 586;
 }
 );
+leftKerningGroup = plus;
+rightKerningGroup = plus;
 unicode = 00B1;
 },
 {
@@ -39429,6 +39961,8 @@ nodes = (
 width = 632;
 }
 );
+leftKerningGroup = plus;
+rightKerningGroup = plus;
 unicode = 00AC;
 },
 {
@@ -39523,6 +40057,8 @@ nodes = (
 width = 556;
 }
 );
+leftKerningGroup = plus;
+rightKerningGroup = plus;
 unicode = 007E;
 },
 {
@@ -39695,6 +40231,8 @@ nodes = (
 width = 593;
 }
 );
+leftKerningGroup = u;
+rightKerningGroup = micro;
 unicode = 00B5;
 },
 {
@@ -39917,6 +40455,8 @@ nodes = (
 width = 776;
 }
 );
+leftKerningGroup = percent;
+rightKerningGroup = percent;
 unicode = 0025;
 },
 {
@@ -40120,6 +40660,8 @@ nodes = (
 width = 878;
 }
 );
+leftKerningGroup = at;
+rightKerningGroup = at;
 unicode = 0040;
 },
 {
@@ -40381,6 +40923,8 @@ nodes = (
 width = 875;
 }
 );
+leftKerningGroup = ampersand;
+rightKerningGroup = ampersand;
 unicode = 0026;
 },
 {
@@ -40495,6 +41039,8 @@ nodes = (
 width = 542;
 }
 );
+leftKerningGroup = paragraph;
+rightKerningGroup = I;
 unicode = 00B6;
 },
 {
@@ -40691,6 +41237,8 @@ nodes = (
 width = 469;
 }
 );
+leftKerningGroup = section;
+rightKerningGroup = section;
 unicode = 00A7;
 },
 {
@@ -40892,6 +41440,8 @@ nodes = (
 width = 828;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 00A9;
 },
 {
@@ -41177,6 +41727,8 @@ nodes = (
 width = 828;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 00AE;
 },
 {
@@ -41277,6 +41829,8 @@ nodes = (
 width = 405;
 }
 );
+leftKerningGroup = ordfeminine;
+rightKerningGroup = ordfeminine;
 unicode = 00B0;
 },
 {
@@ -41331,6 +41885,8 @@ nodes = (
 width = 212;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 007C;
 },
 {
@@ -41415,6 +41971,8 @@ nodes = (
 width = 376;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 00A6;
 },
 {
@@ -41483,6 +42041,8 @@ nodes = (
 width = 505;
 }
 );
+leftKerningGroup = asterisk;
+rightKerningGroup = asterisk;
 unicode = 005E;
 },
 {
@@ -41581,6 +42141,8 @@ nodes = (
 width = 486;
 }
 );
+leftKerningGroup = paragraph.alt;
+rightKerningGroup = paragraph.alt;
 },
 {
 glyphname = dieresiscomb;
@@ -41643,8 +42205,6 @@ layerId = UUID0;
 width = 387;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 0308;
 },
 {
@@ -41684,8 +42244,6 @@ nodes = (
 width = 232;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 0307;
 },
 {
@@ -41727,8 +42285,6 @@ nodes = (
 width = 501;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 0300;
 },
 {
@@ -41770,8 +42326,6 @@ nodes = (
 width = 501;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 0301;
 },
 {
@@ -41832,8 +42386,6 @@ nodes = (
 width = 409;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 030B;
 },
 {
@@ -41893,8 +42445,6 @@ layerId = UUID0;
 width = 386;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 0302;
 },
 {
@@ -41954,8 +42504,6 @@ layerId = UUID0;
 width = 386;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 030C;
 },
 {
@@ -42017,8 +42565,6 @@ layerId = UUID0;
 width = 306;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 030A;
 },
 {
@@ -42089,8 +42635,6 @@ layerId = UUID0;
 width = 425;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 0303;
 },
 {
@@ -42151,8 +42695,6 @@ nodes = (
 width = 384;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 0304;
 },
 {
@@ -42179,8 +42721,6 @@ layerId = UUID0;
 width = 237;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 0326;
 },
 {
@@ -42245,8 +42785,6 @@ layerId = UUID0;
 width = 265;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 0327;
 },
 {
@@ -42284,8 +42822,6 @@ nodes = (
 width = 395;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 0335;
 },
 {
@@ -42380,8 +42916,6 @@ nodes = (
 width = 387;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 },
 {
 glyphname = dotaccentcomb.case;
@@ -42428,8 +42962,6 @@ nodes = (
 width = 232;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 },
 {
 glyphname = gravecomb.case;
@@ -42471,8 +43003,6 @@ nodes = (
 width = 295;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 },
 {
 glyphname = acutecomb.case;
@@ -42514,8 +43044,6 @@ nodes = (
 width = 295;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 },
 {
 glyphname = hungarumlautcomb.case;
@@ -42577,8 +43105,6 @@ nodes = (
 width = 485;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 },
 {
 glyphname = circumflexcomb.case;
@@ -42661,8 +43187,6 @@ nodes = (
 width = 386;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 },
 {
 glyphname = caroncomb.case;
@@ -42736,8 +43260,6 @@ nodes = (
 width = 386;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 },
 {
 glyphname = ringcomb.case;
@@ -42799,8 +43321,6 @@ layerId = UUID0;
 width = 318;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 },
 {
 glyphname = tildecomb.case;
@@ -42859,8 +43379,6 @@ layerId = UUID0;
 width = 425;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 },
 {
 glyphname = macroncomb.i;
@@ -42920,8 +43438,6 @@ nodes = (
 width = 384;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 },
 {
 glyphname = apostrophemod;
@@ -42937,8 +43453,6 @@ layerId = UUID0;
 width = 237;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 02BC;
 },
 {
@@ -42999,8 +43513,6 @@ nodes = (
 width = 221;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 unicode = 00B4;
 },
 {
@@ -43672,8 +44184,6 @@ nodes = (
 width = 420;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 },
 {
 glyphname = "brevecomb-cy.case";
@@ -43714,8 +44224,6 @@ nodes = (
 width = 454;
 }
 );
-leftKerningGroup = "50";
-rightKerningGroup = "50";
 },
 {
 export = 0;
@@ -44010,6 +44518,8 @@ layerId = UUID0;
 width = 0;
 }
 );
+leftKerningGroup = NULL;
+rightKerningGroup = NULL;
 }
 );
 instances = (
