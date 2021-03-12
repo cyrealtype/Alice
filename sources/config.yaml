@@ -1,0 +1,5 @@
+    sources:
+      - Alice.glyphs
+    familyName: Alice
+    buildVariable: false
+    buildStatic: true
