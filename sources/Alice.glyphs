@@ -1,7 +1,8 @@
 {
-.appVersion = "1357";
+.appVersion = "3100";
 DisplayStrings = (
-"/A-cy/Be-cy/Ve-cy/Ge-cy/Gje-cy/Gheupturn-cy/De-cy/Ie-cy/Iegrave-cy/Io-cy/Zhe-cy/Ze-cy/Ii-cy/Iishort-cy/Iigrave-cy/Ka-cy/Kje-cy/El-cy/Em-cy \012/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ushort-cy/Ef-cy/Ha-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Dzhe-cy/Softsign-cy/Hardsign-cy/Yeru-cy \012/Lje-cy/Nje-cy/Dze-cy/E-cy/Ereversed-cy/I-cy/Yi-cy/Je-cy/Tshe-cy/Iu-cy/Ia-cy/Dje-cy/Yat-cy/Yusbig-cy/Fita-cy/Izhitsa-cy/Ghestroke-cy/Ghemiddlehook-cy/Zhedescender-cy \012/Zedescender-cy/Kadescender-cy/Kaverticalstroke-cy/Kabashkir-cy/Endescender-cy/Esdescender-cy/Ustrait-cy/Ustraitstroke-cy/Chedescender-cy/Cheverticalstroke-cy/Shha-cy/Palochka-cy/Zhebreve-cy/Chekhakassian-cy/space/De-cy/Abreve-cy/Adieresis-cy/Iebreve-cy/Schwa-cy \012/Zhedieresis-cy/Zedieresis-cy/Imacron-cy/Idieresis-cy/Odieresis-cy/Obarred-cy/Umacron-cy/Udieresis-cy/Uhungarumlaut-cy/Chedieresis-cy/Gedescender-cy/Yerudieresis-cy/Qa-cy/We-cy/dzhe-cy/Dzhe-cy \012/a-cy/be-cy/ve-cy/ge-cy/gje-cy/gheupturn-cy/de-cy/ie-cy/iegrave-cy/io-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/iigrave-cy/ka-cy/kje-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy \012/te-cy/u-cy/ushort-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/dzhe-cy/softsign-cy/hardsign-cy/yeru-cy/lje-cy/nje-cy/dze-cy/e-cy/ereversed-cy/i-cy/yi-cy/je-cy/tshe-cy/iu-cy \012/ia-cy/dje-cy/yat-cy/yusbig-cy/fita-cy/izhitsa-cy/ghestroke-cy/ghemiddlehook-cy/zhedescender-cy/zedescender-cy/kadescender-cy/kaverticalstroke-cy/kabashkir-cy/endescender-cy/esdescender-cy/ustrait-cy/ustraitstroke-cy/chedescender-cy/cheverticalstroke-cy/shha-cy/palochka-cy/zhebreve-cy \012/chekhakassian-cy/abreve-cy/adieresis-cy/iebreve-cy/schwa-cy/zhedieresis-cy/zedieresis-cy/imacron-cy/idieresis-cy/odieresis-cy/obarred-cy/umacron-cy/udieresis-cy/uhungarumlaut-cy/chedieresis-cy/gedescender-cy/yerudieresis-cy/qa-cy/we-cy/Enghe-cy/enghe-cy/Aie-cy/aie-cy/brevecomb-cy/brevecomb-cy.case/descender-cy/descender-cy.case"
+"/brevecomb-cy/brevecomb-cy.case",
+"/Kaverticalstroke-cy/Cheverticalstroke-cy/kaverticalstroke-cy/che-cy/verticalbar-cy/cheverticalstroke-cy"
 );
 classes = (
 {
@@ -10,28 +11,12 @@ code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011 The Alice Project Authors (contact@cyreal.org) with Reserved Font Name \"Alice\"";
+copyright = "Copyright 2011 The Alice Project Authors (https://github.com/cyrealtype/Alice)";
 customParameters = (
-{
-name = trademark;
-value = "Alice is a trademark of Cyreal (www.cyreal.org).";
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
 {
 name = fsType;
 value = (
 );
-},
-{
-name = vendorID;
-value = CYRE;
 },
 {
 name = "Disable Last Change";
@@ -44,11 +29,27 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = trademark;
+value = "Alice is a trademark of Cyreal (http://www.cyreal.org/).";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = CYRE;
 }
 );
 date = "2021-11-05 10:04:31 +0000";
 designer = "Ksenia Yerulevich";
-designerURL = "http://https://www.myfonts.com/person/Ksenia_Yerulevich/";
+designerURL = "https://www.myfonts.com/person/Ksenia_Yerulevich/";
 familyName = Alice;
 featurePrefixes = (
 {
@@ -172,7 +173,7 @@ capHeight = 631;
 customParameters = (
 {
 name = typoAscender;
-value = 937;
+value = 909;
 },
 {
 name = winAscent;
@@ -188,19 +189,19 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 937;
+value = 909;
 },
 {
 name = hheaDescender;
-value = -312;
+value = -234;
 },
 {
 name = typoDescender;
-value = -312;
+value = -234;
 },
 {
 name = winDescent;
-value = 321;
+value = 323;
 }
 );
 descender = -208;
@@ -18567,6 +18568,28 @@ unicode = 007A;
 glyphname = f_i;
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{154, 0}";
+},
+{
+name = bottom_2;
+position = "{461, 0}";
+},
+{
+name = caret_1;
+position = "{307.5, 0}";
+},
+{
+name = top_1;
+position = "{154, 729}";
+},
+{
+name = top_2;
+position = "{461, 729}";
+}
+);
 background = {
 paths = (
 {
@@ -18793,6 +18816,28 @@ rightKerningGroup = i;
 glyphname = f_j;
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{149, 0}";
+},
+{
+name = bottom_2;
+position = "{446, 0}";
+},
+{
+name = caret_1;
+position = "{297.5, 0}";
+},
+{
+name = top_1;
+position = "{149, 729}";
+},
+{
+name = top_2;
+position = "{446, 729}";
+}
+);
 background = {
 paths = (
 {
@@ -35350,13 +35395,15 @@ name = period;
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 200, 0}";
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 400, 0}";
 }
 );
 layerId = UUID0;
-width = 222;
+width = 622;
 }
 );
 unicode = 2026;
@@ -38743,7 +38790,60 @@ glyphname = .notdef;
 layers = (
 {
 layerId = UUID0;
-width = 267;
+paths = (
+{
+closed = 1;
+nodes = (
+"404 -99 LINE SMOOTH",
+"442 -99 OFFCURVE",
+"452 -92 OFFCURVE",
+"452 -48 CURVE SMOOTH",
+"452 677 LINE SMOOTH",
+"452 721 OFFCURVE",
+"442 728 OFFCURVE",
+"404 728 CURVE SMOOTH",
+"98 728 LINE SMOOTH",
+"60 728 OFFCURVE",
+"50 721 OFFCURVE",
+"50 677 CURVE SMOOTH",
+"50 -48 LINE SMOOTH",
+"50 -92 OFFCURVE",
+"60 -99 OFFCURVE",
+"98 -99 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"120 -46 OFFCURVE",
+"118 -44 OFFCURVE",
+"118 -37 CURVE SMOOTH",
+"118 666 LINE SMOOTH",
+"118 673 OFFCURVE",
+"120 675 OFFCURVE",
+"125 675 CURVE SMOOTH",
+"377 675 LINE SMOOTH",
+"382 675 OFFCURVE",
+"385 673 OFFCURVE",
+"385 666 CURVE SMOOTH",
+"385 -37 LINE SMOOTH",
+"385 -44 OFFCURVE",
+"382 -46 OFFCURVE",
+"377 -46 CURVE SMOOTH",
+"125 -46 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"352 -61 LINE",
+"421 -61 LINE",
+"141 694 LINE",
+"72 694 LINE"
+);
+}
+);
+width = 502;
 }
 );
 },
@@ -45483,6 +45583,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = ring;
 transform = "{1, 0, 0, 1, 7, 124}";
 }
@@ -45541,6 +45642,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = tilde;
 transform = "{1.05, 0, 0, 1, 8, 140}";
 }
@@ -48157,7 +48259,7 @@ w = {
 };
 };
 };
-manufacturer = "Cyreal (www.cyreal.org)";
+manufacturer = "Cyreal (http://www.cyreal.org/)";
 manufacturerURL = "http://cyreal.org";
 unitsPerEm = 1000;
 userData = {
