@@ -48260,7 +48260,7 @@ w = {
 };
 };
 manufacturer = "Cyreal (http://www.cyreal.org/)";
-manufacturerURL = "http://cyreal.org";
+manufacturerURL = "https://cyreal.org";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
