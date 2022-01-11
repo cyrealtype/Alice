@@ -1,6 +1,6 @@
 # Alice Font
 
-Open-source font Ksenia Erulevich
+Open-source font by Ksenia Erulevich
 
 Ksenia Erulevich, designer of Alice typeface,
 was inspired by Lewis Carroll's novel and
@@ -11,7 +11,7 @@ It came out eclectic and quaint, old-fashioned,
 having widened proportions, open aperture, and 
 soft rounded features. Perfect for long meditative text-setting and headlines.
 
-This is in fact Ksenia's first typeface, as part of 
+Alice is Ksenia's first typeface, as part of 
 her diploma project at the Type & Typography course in Moscow, Russia.
 
 Released by Cyreal with help from Gayaneh Bagdasaryan and Alexei Vanyashin.
@@ -36,5 +36,5 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 
 [1]: http://scripts.sil.org/OFL
 [2]: https://fonts.google.com/specimen/Alice
-[3]: http://www.cyreal.org/2012/07/alice/
+[3]: http://cyreal.org/fonts/alice/
 
